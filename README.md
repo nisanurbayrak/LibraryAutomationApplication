@@ -1,4 +1,4 @@
-# LibraryAutomationApplication
+# Library Automation Application
 My library automation, which is my term paper that I wrote with C# language and MySQL database management system, appeals to 3 different user types. In this automation, users can perform many operations according to their type. It can add, delete, update students and books, receive and export books, prevent students who do not meet the necessary criteria from receiving books, and access all these data.
 ### Additional Features
 1) With the delete, update and save structure we created with the support of @kamilalparslantufek (https://github.com/kamilalparslantufek), instead of making a query for each operation, it calls the query like a method and performs the operation with the data received from the user.
